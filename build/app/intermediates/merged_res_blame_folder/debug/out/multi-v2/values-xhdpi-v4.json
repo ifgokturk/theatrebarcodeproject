@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ifg/Projects/FlutterPro/PROJLER/TheatreBarcodeTicket/theatrebarcodeproject/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/ifg/.gradle/caches/transforms-3/a9518309336615b836110a9668badd05/transformed/jetified-core-1.9.13/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

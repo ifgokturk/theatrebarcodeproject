@@ -1,0 +1,4 @@
+#Thu Aug 18 13:21:03 TRT 2022
+base.0=/Users/ifg/Projects/FlutterPro/PROJLER/TheatreBarcodeTicket/theatrebarcodeproject/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

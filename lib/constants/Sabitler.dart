@@ -9,7 +9,7 @@ class sabitler {
   static const Color clr_light_grey = Color(0xAAD3D3D3);
 
   //static const String url = "http://172.22.20.255/mobilservice";
-  static const String url = "http://api.kocaeli.bel.tr";
+  static const String url = "api.kocaeli.bel.tr";
   static const String urlGetSeans = "/TiyatroApi/api/GetSeansList";
   static const String urlBiletNo = "/TiyatroApi/api/GetBiletDetay?BiletNo=";
   // static const String loginApi = url + "/api/CheckUser";
